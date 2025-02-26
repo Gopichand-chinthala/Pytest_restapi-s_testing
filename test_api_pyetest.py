@@ -3,7 +3,7 @@ import random
 import json,string,uuid
 
 base_url="https://gorest.co.in"
-auth_token="Bearer 0bea784a64ea595285a111c73c274ffda40e95febe2edcafd7011e04fa8a2804"
+auth_token="Bearer {enter your token}"
 ##Random email generator
 def genarate_random_email():
     domain="testing.com"
